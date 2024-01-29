@@ -8,7 +8,7 @@ namespace SpillBibliotek
 {
     public class Game 
     {
-        public string GameTitle { get; set; }
+       public string GameTitle { get; set; }
 
         public string ConsoleTitle { get; set; }
 
@@ -17,7 +17,9 @@ namespace SpillBibliotek
             GameTitle = gameTitle;
             ConsoleTitle = consoleTitle;
         }
-
-      
     }
 }
+
+
+
+
